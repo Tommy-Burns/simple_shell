@@ -109,3 +109,4 @@ File|Description
 
 ## Authors
 * **Thomas Burns Botchwey** - [Tommy-Burns](https://github.com/Tommy-Burns)
+* **Kofi Amenyo** - [Kofi-Amenyo](https://github.com/Kofi-Amenyo)
